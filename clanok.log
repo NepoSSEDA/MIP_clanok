@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.9.28)  2 NOV 2021 00:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.9.28)  6 NOV 2021 15:51
 entering extended mode
 **./clanok.tex
 (clanok.tex
@@ -375,7 +375,17 @@ LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line
 /cslatex/base/il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
-Overfull \hbox (7.83392pt too wide) in paragraph at lines 41--47
+Overfull \hbox (4.8015pt too wide) in paragraph at lines 36--38
+\IL2/cmr/m/n/9 schematic pictures of these models, give some advantages and dis
+advantages
+ []
+
+
+LaTeX Warning: Citation `kaur2015suitability' on page 1 undefined on input line
+ 47.
+
+
+Overfull \hbox (7.83392pt too wide) in paragraph at lines 42--48
 \IL2/cmr/m/n/10 increasing the number of microprocessor transistors and, conseq
 uently, the number
  []
@@ -384,94 +394,110 @@ uently, the number
 
 {/Users/familylipovetskiy/Library/Application Support/MiKTeX/texmfs/data/pdftex
 /config/pdftex.map}]
-Overfull \hbox (19.0497pt too wide) in paragraph at lines 55--59
+
+LaTeX Warning: Citation `MainDiff' on page 2 undefined on input line 59.
+
+
+Overfull \hbox (2.02841pt too wide) in paragraph at lines 51--60
+\IL2/cmr/m/n/10 As more companies build their own mobile apps, and as many make
+ the transition
+ []
+
+
+Overfull \hbox (19.0497pt too wide) in paragraph at lines 64--68
 []\IL2/cmr/bx/n/10 A. IdentificationPhase \IL2/cmr/m/n/10 In the first phase, i
 deas are collected and categorized.
  []
 
 
-Overfull \hbox (9.33394pt too wide) in paragraph at lines 55--59
+Overfull \hbox (9.33394pt too wide) in paragraph at lines 64--68
 \IL2/cmr/m/n/10 the idea, the idea is further detailed and analyzed. Developers
  can brainstorm
  []
 
 
-Overfull \hbox (17.58398pt too wide) in paragraph at lines 55--59
+Overfull \hbox (17.58398pt too wide) in paragraph at lines 64--68
 \IL2/cmr/m/n/10 The work done by the mobile application idea team should then b
 e documented
  []
 
-
-Overfull \hbox (13.47295pt too wide) in paragraph at lines 59--62
+[2]
+Overfull \hbox (13.47295pt too wide) in paragraph at lines 68--71
 \IL2/cmr/m/n/10 developing the application on all mobile platform is determined
 . Alternatively,
  []
 
 
-Overfull \hbox (11.9728pt too wide) in paragraph at lines 62--64
+Overfull \hbox (11.9728pt too wide) in paragraph at lines 71--73
 \IL2/cmr/m/n/10 development process can be in two stages: Coding for Functional
  Requirement
  []
 
 
-Overfull \hbox (14.52844pt too wide) in paragraph at lines 62--64
+Overfull \hbox (14.52844pt too wide) in paragraph at lines 71--73
 \IL2/cmr/m/n/10 design. Finally, the documentation of the development phase is 
 then forwarded
  []
 
-[2]
-Overfull \hbox (10.75063pt too wide) in paragraph at lines 64--66
+
+Overfull \hbox (10.75063pt too wide) in paragraph at lines 73--75
 \IL2/cmr/m/n/10 are implemented through the development phase. When the second 
 prototype
  []
 
-
-Overfull \hbox (6.08395pt too wide) in paragraph at lines 66--68
+[3]
+Overfull \hbox (6.08395pt too wide) in paragraph at lines 75--77
 \IL2/cmr/m/n/10 development lifecycle model. The testing of the prototype types
  is performed
  []
 
 
-Overfull \hbox (4.334pt too wide) in paragraph at lines 66--68
+Overfull \hbox (4.334pt too wide) in paragraph at lines 75--77
 \IL2/cmr/m/n/10 should be performed on multiple operating system versions, mult
 iple models
  []
 
 
-Overfull \hbox (2.63953pt too wide) in paragraph at lines 68--70
+Overfull \hbox (2.63953pt too wide) in paragraph at lines 77--79
 \IL2/cmr/m/n/10 from the client, the application is ready for the deployment. T
 he application
  []
 
 
-Overfull \hbox (12.88959pt too wide) in paragraph at lines 68--70
+Overfull \hbox (12.88959pt too wide) in paragraph at lines 77--79
 \IL2/cmr/m/n/10 is uploaded to the appropriate application store/market for use
 r consumption.
  []
 
+
+LaTeX Warning: Citation `vithani2014modeling' on page 4 undefined on input line
+ 80.
+
+
+Overfull \hbox (15.12961pt too wide) in paragraph at lines 84--84
+[]\IL2/cmr/bx/n/14.4 Review of software development lifecycle models 
+ []
+
 No file clanok.bbl.
-[3] (clanok.aux)
+[4] (clanok.aux)
 
-Package rerunfilecheck Warning: File `clanok.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: Checksums for `clanok.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  46858464BF2712C5D57ECE5E11AD6593;612.
+Package rerunfilecheck Info: File `clanok.out' has not changed.
+(rerunfilecheck)             Checksum: 728E99D8F3765181584EB07A17D15DE2;905.
  ) 
 Here is how much of TeX's memory you used:
- 9375 strings out of 480944
- 146607 string characters out of 2903969
- 454118 words of memory out of 3000000
- 26787 multiletter control sequences out of 15000+600000
+ 9384 strings out of 480944
+ 146704 string characters out of 2903969
+ 455284 words of memory out of 3000000
+ 26794 multiletter control sequences out of 15000+600000
  411998 words of font info for 47 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  60i,7n,66p,922b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/familylipovetskiy/Library/Application Support/MiKTeX/texmfs/data/fon
-ts/pk/ljfour/public/csfonts/dpi600/csbx10.pk> </Users/familylipovetskiy/Library
-/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm
-1000.pk> </Users/familylipovetskiy/Library/Application Support/MiKTeX/texmfs/da
+ts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk> </Users/familylipovetskiy/Library/
+Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/csfonts/dpi600/cs
+bx10.pk> </Users/familylipovetskiy/Library/Application Support/MiKTeX/texmfs/da
 ta/fonts/pk/ljfour/public/csfonts/dpi600/cssl10.pk> </Users/familylipovetskiy/L
 ibrary/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/csfonts/dp
 i600/csr10.pk> </Users/familylipovetskiy/Library/Application Support/MiKTeX/tex
@@ -484,9 +510,9 @@ povetskiy/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public
 MiKTeX/texmfs/data/fonts/pk/ljfour/public/csfonts/dpi600/csr12.pk> </Users/fami
 lylipovetskiy/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/pu
 blic/csfonts/dpi600/csr17.pk>
-Output written on clanok.pdf (3 pages, 91929 bytes).
+Output written on clanok.pdf (4 pages, 102033 bytes).
 PDF statistics:
- 297 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 332 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
